@@ -1,7 +1,6 @@
 import streamlit as st
 
 st.title("🎈 paisss")
-st.write(
-    "mari ngoding bersama pais"
-)
-st.image("20250518_085040.jpg"widt=200)
+st.write("mari ngoding bersama pais")
+st.image("20250518_085040.jpg",
+widt=200)
